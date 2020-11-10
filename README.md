@@ -5,7 +5,7 @@ In this tutorial we will walk you through the best security practices to secure 
 
 | OS                                                                                                   | Android                                                                                                       |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![RedHat](https://github.com/iloveyii/mobile-platforms-dt581b-project/blob/master/documentation/ios.jpg) |  |
+| ![RedHat](https://github.com/iloveyii/secure-a-server/blob/master/redhat.jpg) |  |
 
 
 
