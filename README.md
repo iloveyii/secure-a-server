@@ -45,3 +45,16 @@ In this tutorial we will walk you through the best security practices to secure 
    `net.ipv6.conf.all.accept_source_route=0`
    - Logon martians packets
    `net.ipv4.conf.all.log_martians=1`
+   - Check status `sudo sysctl -p`
+   - Spoof file `nano /etc/host.conf` and paste
+   ```bash
+    order bind,hosts
+    nospoof on
+```
+### Ban
+   - Ban a malicious user `sudo apt install fail2ban`
+   - Enable it `sudo systemctl enable fail2ban`
+   - Start it `sudo systemctl start fail2ban`
+   - Check status `sudo systemctl status fail2ban`
+   - Open ports `sudo netstat -tunlp`
+   
