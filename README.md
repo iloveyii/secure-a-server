@@ -1,11 +1,12 @@
-#SECURE A SERVER
+SECURE A SERVER
+================
 
 In this tutorial we will walk you through the best security practices to secure your server.
 
 
-| OS                                                                                                   | Android                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![RedHat](https://github.com/iloveyii/secure-a-server/blob/master/redhat.jpg) |  |
+| OS                                                                            |
+| ------------------------------------------------------------------------------| 
+| ![RedHat](https://github.com/iloveyii/secure-a-server/blob/master/redhat.jpg) |  
 
 
 
