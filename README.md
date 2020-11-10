@@ -20,12 +20,13 @@ In this tutorial we will walk you through the best security practices to secure 
    - Copy public key to server `ssh-copy-id -i id_rsa.pub user@ip`
    - Login `ssh user@ip`
    - Disable login using password `nano /etc/ssh/sshd_config`
-     ```bash
+     
+    ```bash
          ChallengeResponseAuthentication no
          PasswordAuthentication no
          UsePAM no
          PermitRootLogin no
-    ```
+```
 
 ### System level
    - `sudo nano /etc/sysctl.conf`
