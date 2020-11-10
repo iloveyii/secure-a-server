@@ -3,6 +3,11 @@
 In this tutorial we will walk you through the best security practices to secure your server.
 
 
+| OS                                                                                                   | Android                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ![RedHat](https://github.com/iloveyii/mobile-platforms-dt581b-project/blob/master/documentation/ios.jpg) |  |
+
+
 
 ## Ubuntu
 ### Firewall . ufw
